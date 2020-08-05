@@ -80,7 +80,7 @@ Project status:
 
 Project links:
 
-[The URL of the functional, deployed application](actual URL to navigate)
+[The URL of the functional, deployed application](https://kabildgaard.github.io/Work-Day-Planner/)
 
 [The URL of the GitHub repository](https://github.com/KABILDGAARD/Work-Day-Planner)
 
