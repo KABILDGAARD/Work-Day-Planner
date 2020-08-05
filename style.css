@@ -82,16 +82,17 @@
   }
   
   .saveBtn {
+    font-size: 30px;
     border-left: 1px solid white;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
     background-color: #b7df69;
-    color: black;
+    color: #b7df69;
     z-index: 6;
   }
   
   .saveBtn i:hover {
-    font-size: 40px;
+    font-size: 60px;
     transition: all .1s ease-in-out;
     color: #1fd8d8;
     z-index: 6;
