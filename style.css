@@ -98,6 +98,11 @@
     z-index: 6;
   }
 
+.icons i,
+.icons svg {
+   color: #b7df69;
+}
+
   #clear-button{
     border-top-right-radius: 15px;
     border-top-left-radius: 15px;
