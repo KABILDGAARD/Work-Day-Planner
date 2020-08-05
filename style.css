@@ -91,7 +91,7 @@
   
   .saveBtn i:hover {
     font-size: 40px;
-    transition: all .5s ease-in-out;
+    transition: all .2s ease-in-out;
     color: #1fd8d8;
     z-index: 6;
   }
